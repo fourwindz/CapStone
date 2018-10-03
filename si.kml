@@ -29,5 +29,20 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Red Line</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+-74.131988, 40.607592, 0
+-74.131892, 40.606677, 0
+-74.131769, 40.605573, 0
+-74.131569, 40.603769, 0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
   </Document>
 </kml>
